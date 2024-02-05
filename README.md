@@ -1,1 +1,1 @@
-# csci566-dl-project
+# Contrastive Learning for Background Invariance
